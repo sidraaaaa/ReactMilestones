@@ -21,3 +21,4 @@ class App extends Component {
 }
 }
 export default App;
+//main page inside Poketimes app
